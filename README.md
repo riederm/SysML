@@ -2,7 +2,8 @@
 
 # Homework: From UML to SysML
 **Topic:** Understanding SysML through comparison with UML  
-**Due:** [Insert Date]
+**Due:** Nov. 19, 2025
+**Submission:** A single pull request with all your contributions.
 
 ---
 
