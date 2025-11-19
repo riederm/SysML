@@ -40,7 +40,7 @@ SysML combines all of that — hardware + logic + behavior + requirements — in
    - Indicate whether each is *reused*, *modified*, or *new* in SysML.  
    - For each SysML-specific diagram, write one short sentence about its purpose.
 
-   | UML Diagram           | SysML Status  | SysML Equivalent / New Diagram        | Purpose (1 sentence)                                        |
+| UML Diagram           | SysML Status  | SysML Equivalent / New Diagram        | Purpose (1 sentence)                                        |
 |----------------------|---------------|--------------------------------------|------------------------------------------------------------|
 | Class Diagram         | Modified      | Block Definition Diagram (BDD)        | Defines system elements (blocks), their structure, and relationships. |
 | Composite Structure   | Modified      | Internal Block Diagram (IBD)          | Shows internal parts of a block and how they interact via ports/flows. |
