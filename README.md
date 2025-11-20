@@ -87,5 +87,5 @@ SysML combines all of that — hardware + logic + behavior + requirements — in
 
 1. Create a BDD diagram focusing on the hardware components of a [Tetris Cabinet](https://www.arcade-museum.com/Videogame/tetris) (try to think of everyting).
 2. Create a UML Component diagram for the same [Tetris Cabinet](https://www.arcade-museum.com/Videogame/tetris).
-
+![uml_chart](tetris_uml.png "Tetris Cabinet UML")
 ---
