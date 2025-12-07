@@ -88,6 +88,10 @@ Answer briefly
 
 1. Create a BDD diagram focusing on the hardware components of a [Tetris Cabinet](https://www.arcade-museum.com/Videogame/tetris) (try to think of everyting).
 
+![Tetris Cabinet BDD](tetris_cabinet_bdd.svg)
+
 2. Create a UML Component diagram for the same [Tetris Cabinet](https://www.arcade-museum.com/Videogame/tetris).
 
+
+![Tetris Cabinet UML](tetris_cabinet_uml.svg)
 ---
